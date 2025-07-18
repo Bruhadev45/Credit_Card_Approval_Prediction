@@ -94,13 +94,7 @@ Each model was tuned and evaluated on a hold-out test set.
    cd credit-card-approval-prediction
    ```
 
-2. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Jupyter Notebook:**
+2. **Launch Jupyter Notebook:**
 
    ```bash
    jupyter notebook credit_card_approval.ipynb
